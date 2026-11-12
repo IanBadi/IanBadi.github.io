@@ -1,2 +1,5 @@
-# IanBadi.github.io
-Portfolio website: Power BI, Tableau and Excel dashboards
+# Ian Badi
+
+Data & BI Analyst · Toronto
+
+Portfolio of live Power BI, Tableau and Excel dashboards coming soon.
